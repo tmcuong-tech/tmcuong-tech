@@ -99,7 +99,7 @@
 
 - **GitHub** : tmcuong-tech
 
-- **GitLab**  : TranMinhCuong-Tech
+- **GitLab**  : tmcuong-tech
 
 - **LinkedIn** : minh-cường-trần-066543414
 
